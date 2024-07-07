@@ -20,6 +20,6 @@ Proficient in Java, Python, JavaScript, React, Node.js, AI, SQL, and Excel, with
 
 ## Socials
 
-<a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/faye-lyu-79a822147/)">
+<a href="https://www.linkedin.com/in/faye-lyu-79a822147/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
