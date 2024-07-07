@@ -1,25 +1,12 @@
-## Hi there 👋
+# Hi! My name is Faye 😁
 
-<!--
-**FayeLV/FayeLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I am a Fullstack Developer based in San antonio Texas.
 
-Here are some ideas to get you started:
+## SUMMARY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proficient in Java, Python, JavaScript, React, Node.js, AI, SQL, and Excel, with a focus on real estate data analysis. Gained practical experience through various academic projects, and able to keep up with technological trends while working well in a team environment.
 
-# Hi! My name is [Your Name] 😁
-
-🌍 I am a Front-End Developer based in [Your Location].
-
-## Skills
+## SKILLS
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -39,4 +26,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
