@@ -4,7 +4,7 @@
 
 ## SUMMARY
 
-Proficient in Java, Python, JavaScript, React, Node.js, AI, SQL, and Excel, with a focus on real estate data analysis. Gained practical experience through various academic projects, and able to keep up with technological trends while working well in a team environment.
+Proficient in Java, Python, JavaScript, React, Node.js, AI, SQL, and Excel, with a focus on real estate data analysis. Gained practical experience through various projects, and able to keep up with technological trends while working well in a team environment.
 
 ## SKILLS
 
