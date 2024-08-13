@@ -17,9 +17,3 @@ Proficient in Java, Python, Groovy, JavaScript, React, AI, SQL, and Excel, with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/>
 </p>
-
-## Socials
-
-<a href="https://www.linkedin.com/in/faye-lyu-79a822147/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
