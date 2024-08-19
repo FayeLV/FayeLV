@@ -1,6 +1,6 @@
 # Hi! My name is Faye 😁
 
-🌍 I am a Fullstack Developer based in San antonio Texas.
+🌍 I am a Fullstack Developer based in Austin Texas.
 
 ## SUMMARY
 
