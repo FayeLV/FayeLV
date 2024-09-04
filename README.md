@@ -15,7 +15,7 @@ Proficient in Java, Python, Groovy, JavaScript, React,HTML,CSS AI, SQL, and Exce
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> <!-- Adjust for specific SQL like MySQL or PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> <!-- Example for MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
@@ -35,7 +35,7 @@ Proficient in Java, Python, Groovy, JavaScript, React,HTML,CSS AI, SQL, and Exce
 
 ### Microsoft Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="Word" width="40" height="40"/> <!-- Placeholder if specific icons not available -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="Word" width="40" height="40"/> <!-- Adjust if specific icons available -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" alt="PowerPoint" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/teams/teams-original.svg" alt="Teams" width="40" height="40"/>
@@ -43,5 +43,6 @@ Proficient in Java, Python, Groovy, JavaScript, React,HTML,CSS AI, SQL, and Exce
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
 </p>
+
 
 
