@@ -4,7 +4,7 @@
 
 ## SUMMARY
 
-Proficient in Java, Python,JavaScript, React,HTML,CSS AI, SQL, and Excel, with a focus on real estate data analysis. Gained practical experience through various projects, and able to keep up with technological trends while working well in a team environment.
+Motivated Full-Stack Developer with hands-on experience in both frontend and backend development, specializing in React, Javascript, Java, and Spring Boot Python. Skilled in building responsive web applications and sofeware. Strong team player with experience in Agile environments, committed to continuous improvement and learning. Certified in ITIL® Foundation and Linux Essentials.
 
 ## Skills
 
